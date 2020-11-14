@@ -1,0 +1,63 @@
+#logo
+{
+    text-align: center;
+    margin-top: 12%;
+}
+
+.form
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#bar
+{
+    width: 400px;
+}
+
+ul
+{
+    list-style-type: none;
+    margin-top: 10px;
+    padding: 0;
+}
+
+li
+{
+    display: inline;
+    padding: 10px;
+}
+
+#one
+{
+    display: inline-block;
+}
+
+#two
+{
+    display: inline-block;
+    margin-left: 78%;
+}
+
+#country
+{
+    margin-top: 20%;
+    background-color:#f2f2f2;
+    height: 40px
+}
+
+#three
+{
+    display: inline-block;
+}
+
+#four
+{
+    display: inline-block;
+    margin-left: 65%;
+}
+
+.bottom
+{
+    background-color:#f2f2f2;
+}
